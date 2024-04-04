@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <label id="lblTotalDays" Text="Total Days"></label>
         </div>
     </form>
 </body>
